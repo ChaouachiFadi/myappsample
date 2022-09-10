@@ -8,6 +8,7 @@ package Ateliers.GUI;
 /**
  *
  * @author M.Savoie
+ * test1
  */
 public class MainWindow extends javax.swing.JFrame
 {
